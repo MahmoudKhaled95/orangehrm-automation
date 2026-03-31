@@ -27,7 +27,7 @@ Before setting up the project, ensure the following software is installed and co
 ### Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone  (https://github.com/MahmoudKhaled95/orangehrm-automation).git]
+   git clone  (https://github.com/MahmoudKhaled95/orangehrm-automation).git
 2. Navigate to the project root directory:
    ```bash
     cd orangehrm-automation
