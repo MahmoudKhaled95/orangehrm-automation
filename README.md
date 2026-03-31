@@ -27,8 +27,20 @@ Before setting up the project, ensure the following software is installed and co
 ### Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone [https://github.com/YourUsername/ProjectName.git](https://github.com/YourUsername/ProjectName.git)
-## Project Structure
+   git clone  (https://github.com/MahmoudKhaled95/orangehrm-automation).git]
+2. Navigate to the project root directory:
+   ```bash
+    cd orangehrm-automation
+3. Install the required project dependencies:
+   ```bash
+   mvn clean install## Project Structure
+### Execution
+ 
+To run the automated test suite from the terminal, use the following Maven command:
+       ```bash
+       
+       mvn UserTest
+
 ```text
 src/
 ├── main/
