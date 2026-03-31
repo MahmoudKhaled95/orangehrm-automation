@@ -16,6 +16,18 @@ This project is a Java-based test automation framework designed to verify the Us
 * **Stability:** Optimized locators using relative XPaths based on field labels to prevent test failures caused by UI changes.
 * **Data-Driven:** Configured with TestNG DataProviders for parameterized execution.
 
+## Getting Started
+
+### Prerequisites
+Before setting up the project, ensure the following software is installed and configured on your system:
+* **JDK 21** or higher.
+* **Apache Maven** (ensure the 'bin' folder is added to your system environment variables).
+* **Google Chrome** browser.
+
+### Installation
+1. Clone the repository to your local machine:
+   ```bash
+   git clone [https://github.com/YourUsername/ProjectName.git](https://github.com/YourUsername/ProjectName.git)
 ## Project Structure
 ```text
 src/
@@ -34,3 +46,5 @@ src/
     └── java/
         └── tests/
             └── UserTest.java        # End-to-end test execution
+
+
