@@ -41,6 +41,19 @@ To run the automated test suite from the terminal, use the following Maven comma
        
        mvn UserTest
 
+## TestNG Reports
+<img width="1920" height="763" alt="image" src="https://github.com/user-attachments/assets/08c7b8db-9c92-4334-878a-e3e7153e50cc" />
+
+## Demo Videos
+
+
+
+https://github.com/user-attachments/assets/8e61956b-c3e4-494f-b1f5-7c61ace5c13e
+
+
+
+## Project Structure
+The project follows a standard Maven directory structure:
 ```text
 src/
 ├── main/
@@ -58,5 +71,7 @@ src/
     └── java/
         └── tests/
             └── UserTest.java        # End-to-end test execution
+
+ 
 
 
